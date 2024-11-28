@@ -1,0 +1,41 @@
+[
+  {
+    "nct_id": "NCT03171727",
+    "title": "Low Molecular Weight Heparin for the Prevention of Early TIPS Dysfunction",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "West China Hospital",
+        "organization": "West China Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "xuefeng luo",
+        "email": "luo_xuefeng@yeah.net",
+        "phone": "02885422311",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "xuefeng luo",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Sichuan University"
+      },
+      {
+        "type": "Site Contact",
+        "name": "xuefeng luo",
+        "email": "luo_xuefeng@yeah.net",
+        "phone": "02885422311",
+        "role": "CONTACT",
+        "site": "West china Hospital",
+        "city": "Chengdu",
+        "state": null,
+        "country": "China"
+      }
+    ]
+  }
+]
