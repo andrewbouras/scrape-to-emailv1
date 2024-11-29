@@ -1,0 +1,1337 @@
+[
+  {
+    "nct_id": "NCT06523530",
+    "title": "Effect of a GnRH Analog on Hepatic Steatosis",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Aristotle University Of Thessaloniki",
+        "organization": "Aristotle University Of Thessaloniki",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Stergios A Polyzos, MD, PhD",
+        "email": "spolyzos@auth.gr",
+        "phone": "2310999316",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Dimitrios A Anastasilakis, MD, PhDc",
+        "email": "dimitanast@auth.gr",
+        "phone": "6932238231",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Dimitrios A Anastasilakis, MD, PhDc",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "School of Medicine, Aristotle University of Thessaloniki"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Athina I Gkiomisi, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "424 General Military Hospital, Thessaloniki, Greece"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Dimitrios G Goulis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "School of Medicine, Aristotle University of Thessaloniki"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Angelos Daniilidis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "School of Medicine, Aristotle University of Thessaloniki"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Athanasios A Anastasilakis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "424 General Military Hospital, Thessaloniki, Greece"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Chrysi Nalmpantidou, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "\"G. Gennimatas\" General Hospital, Thessaloniki, Greece"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Stergios A Polyzos, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "School of Medicine, Aristotle University of Thessaloniki"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Athanasios D Anastasilakis, MD, PhD",
+        "email": "a.anastasilakis@gmail.com",
+        "phone": "2310839900",
+        "role": "CONTACT",
+        "site": "424 General Military Hospital",
+        "city": "Thessaloniki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Dimitrios A Anastasilakis, MD, PhDc",
+        "email": "dimitanast@auth.gr",
+        "phone": "6932238231",
+        "role": "CONTACT",
+        "site": "424 General Military Hospital",
+        "city": "Thessaloniki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Athanasios D Anastasilakis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "424 General Military Hospital",
+        "city": "Thessaloniki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Dimitrios A Anastasilakis, MD, PhDc",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "424 General Military Hospital",
+        "city": "Thessaloniki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Athina I G\u03baiomisi, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "424 General Military Hospital",
+        "city": "Thessaloniki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Dimitrios G Goulis, MD, PhD",
+        "email": "dgg@auth.gr",
+        "phone": "2310233468",
+        "role": "CONTACT",
+        "site": "1st Department of Obstetrics and Gynecology, School of Medicine, Aristotle University of Thessaloniki",
+        "city": "Thessalon\u00edki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Angelos Daniilidis, MD, PhD",
+        "email": "angedan@auth.gr",
+        "phone": "2310992843",
+        "role": "CONTACT",
+        "site": "1st Department of Obstetrics and Gynecology, School of Medicine, Aristotle University of Thessaloniki",
+        "city": "Thessalon\u00edki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Dimitrios G Goulis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "1st Department of Obstetrics and Gynecology, School of Medicine, Aristotle University of Thessaloniki",
+        "city": "Thessalon\u00edki",
+        "state": null,
+        "country": "Greece"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Angelos Daniilidis, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "1st Department of Obstetrics and Gynecology, School of Medicine, Aristotle University of Thessaloniki",
+        "city": "Thessalon\u00edki",
+        "state": null,
+        "country": "Greece"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05578430",
+    "title": "AK104 Combining With TACE for Resectable Hepatocellular Carcinoma (MORNING)",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Sun Yat-sen University",
+        "organization": "Sun Yat-sen University",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Kuang Ming, Ph.D.",
+        "email": "kuangm@mail.sysu.edu.cn",
+        "phone": "008687755766",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06358430",
+    "title": "Dose Escalation and Expansion Study of TROP2 CAR Engineered IL-15- Transduced Cord Blood-derived NK Cells in Combination With Cetuximab in Patient With Colorectal Cancer (CRC) With Minimal Residual Disease (MRD)",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "M.D. Anderson Cancer Center",
+        "organization": "M.D. Anderson Cancer Center",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Maria Pia Morelli, MD, PhD",
+        "email": "mpmorelli@mdanderson.org",
+        "phone": "(713) 745-1297",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Maria Pia Morelli, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "M.D. Anderson Cancer Center"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Maria Pia Morelli, MD, PhD",
+        "email": "No email",
+        "phone": "713-745-1297",
+        "role": "CONTACT",
+        "site": "MD Anderson Cancer Center",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Maria Pia Morelli, MD, PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "MD Anderson Cancer Center",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06615830",
+    "title": "Organoid-driven Chemotherapy Choice in Metastatic Pancreatic Cancer Patients.",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Prof. Dr. med. Dres. h.c. Jan Schmidt, MME",
+        "organization": "Prof. Dr. med. Dres. h.c. Jan Schmidt, MME",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Jan Schmidt, Prof. Dr. med. Dres. h.c. MME",
+        "email": "jan.schmidt@hirslanden.ch",
+        "phone": "+ 41 442092505",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05842525",
+    "title": "Fruquintinib Plus FOLFIRI in RAS-mutated Metastatic Colorectal Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Hunan Cancer Hospital",
+        "organization": "Hunan Cancer Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "zhenyang Liu, MD PhD",
+        "email": "liuzhenyang@hnca.org.cn",
+        "phone": "0731-89762131",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "xiaolin Yang, MD",
+        "email": "yangxiaolin@hnca.org.cn",
+        "phone": "0731-89762131'",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "zhenyang Liu, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Hunan Cancer Hospital"
+      },
+      {
+        "type": "Site Contact",
+        "name": "zhenyang Liu, MD",
+        "email": "liuzhenyang@hnca.org.cn",
+        "phone": "18673181133",
+        "role": "CONTACT",
+        "site": "Hunan Cancer hospital",
+        "city": "Changsha",
+        "state": "Hunan",
+        "country": "China"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05286320",
+    "title": "Phase Ib/II Trial of Combining Pembrolizumab and Lenvatinib With SBRT for HCC Patients With Portal Vein Thrombosis.",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "National Taiwan University Hospital",
+        "organization": "National Taiwan University Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Chia-Hsien Cheng",
+        "email": "jasoncheng@ntu.edu.tw",
+        "phone": "+886972651680",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Chia-Hsien Cheng",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Department of Internal Medicine, NTUH"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Chia-Hsien Cheng",
+        "email": "jasoncheng@ntu.edu.tw",
+        "phone": "0972-651-680",
+        "role": "CONTACT",
+        "site": "National Taiwan University Hospital",
+        "city": "Taipei City",
+        "state": "Taiawn",
+        "country": "Taiwan"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05290220",
+    "title": "HLX07 Combination Therapy or Motherapy in Patient With Advanced Hepatocellular Carcinoma",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Shanghai Henlius Biotech",
+        "organization": "Shanghai Henlius Biotech",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Zhenggang Ren",
+        "email": "ren.zhenggang@zs-hospital.sh.cn",
+        "phone": "13681971302",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05316220",
+    "title": "A Study to Assess Adverse Events and Change in Disease Condition of Mesalamine Capsules in Children Aged 5 to 17 Years With Ulcerative Colitis",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "AbbVie",
+        "organization": "AbbVie",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "ABBVIE CALL CENTER",
+        "email": "abbvieclinicaltrials@abbvie.com",
+        "phone": "844-663-3742",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "ABBVIE INC.",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "AbbVie"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Site Coordinator",
+        "email": "No email",
+        "phone": "4043050004",
+        "role": "CONTACT",
+        "site": "Treken Primary Care /ID# 241302",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06630130",
+    "title": "Perioperative Therapies in Locally Advanced Unresectable Gastric Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Jeeyun Lee",
+        "organization": "Jeeyun Lee",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Jeeyun Lee, Ph, MD",
+        "email": "jyun.lee@samsung.com",
+        "phone": "+82-10-9933-1779",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Jeeyun Lee, Ph, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Samsung Medical Center"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05907330",
+    "title": "Phase 2 Study of CU104 in Moderate-Severe Ulcerative Colitis",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Curacle Co., Ltd.",
+        "organization": "Curacle Co., Ltd.",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Bomi Kim",
+        "email": "bomi.kim@curacle.com",
+        "phone": "+82-70-4118-3886",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06258525",
+    "title": "SAMe in Prevention of Oxaliplatin-associated Liver Injury",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Cedars-Sinai Medical Center",
+        "organization": "Cedars-Sinai Medical Center",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Clinical Trial Navigator",
+        "email": "cancer.trial.info@cshs.org",
+        "phone": "3104232133",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Alexandra Gangi, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Cedars-Sinai Medical Center"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Clinical Trial Recruitment Navigator",
+        "email": "cancer.trial.info@cshs.org",
+        "phone": "310-423-2133",
+        "role": "CONTACT",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Alexandra Gangi, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Jun Gong, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Andrew Hendifar, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Arsen Osipov, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Maha Guindi, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center at SOCC",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Clinical Trial Recruitment Navigator",
+        "email": "cancer.trial.info@cshs.org",
+        "phone": "310-423-2133",
+        "role": "CONTACT",
+        "site": "Cedars-Sinai Medical Center Beverly Hills",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Alexandra Gangi, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center Beverly Hills",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Jeremy Lorber, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center Beverly Hills",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Kevin S. Scher, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "SUB_INVESTIGATOR",
+        "site": "Cedars-Sinai Medical Center Beverly Hills",
+        "city": "Los Angeles",
+        "state": "California",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06696248",
+    "title": "Carvedilol and Alverine in Portal Hypertension",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Shanghai Changzheng Hospital",
+        "organization": "Shanghai Changzheng Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Chang-Peng Zhu, M.D.",
+        "email": "zhuchangpeng@126.com",
+        "phone": "86-13671547663",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Wei-Fen Xie, M.D.",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Shanghai Changzheng Hospital"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06254248",
+    "title": "Safety of Atezolizumab-Bevacizumab in Liver Transplanted Patients With Advanced Hepatocellular Carcinoma",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Assistance Publique - H\u00f4pitaux de Paris",
+        "organization": "Assistance Publique - H\u00f4pitaux de Paris",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Manon Allaire, MD",
+        "email": "manon.allaire@aphp.fr",
+        "phone": "142127064",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Anne Bissery",
+        "email": "anne.bissery@aphp.fr",
+        "phone": "142162432",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT04381130",
+    "title": "A Phase I/IIa Study of EF-009 in Patients With Pancreatic Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Everfront Biotech Co., Ltd.",
+        "organization": "Everfront Biotech Co., Ltd.",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "David Liu, PhD",
+        "email": "coldwee@efbiotech.com",
+        "phone": "+88638630108",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06089330",
+    "title": "A Study of JMT101 in Patients With Metastatic Colorectal Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Shanghai JMT-Bio Inc.",
+        "organization": "Shanghai JMT-Bio Inc.",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Clinical Trials Information Group officer",
+        "email": "ctr-contact@cspc.cn",
+        "phone": "86-0311-69085587",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06589830",
+    "title": "TL938 and Trastuzumab for Patients With HER2-positive Metastatic Colorectal Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Suzhou Teligene Ltd.",
+        "organization": "Suzhou Teligene Ltd.",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Xiaoyang Xia",
+        "email": "Xiaoyang.xia@teligene.com",
+        "phone": "8053009373",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Liling Ding",
+        "email": "liling.ding@medolution.com",
+        "phone": "15295298995",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06197425",
+    "title": "Investigate the Efficacy of Chemotherapy in Patients With Positive ctDNA After Surgery and Adjuvant Chemotherapy for a Stage III Colorectal Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Centre Hospitalier Universitaire Dijon",
+        "organization": "Centre Hospitalier Universitaire Dijon",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Julien TAIEB",
+        "email": "julien.taieb@egp.aphp.fr",
+        "phone": "01 56 09 50 42",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Site Contact",
+        "name": "C\u00f4me LEPAGE",
+        "email": "come.lepage@u-bourgogne.fr",
+        "phone": "03 80 29 37 50",
+        "role": "CONTACT",
+        "site": "Chu Dijon Bourgogne",
+        "city": "Dijon",
+        "state": null,
+        "country": "France"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06361030",
+    "title": "Surufatinib Combined With Gemcitabine Plus Nab-paclitaxel in Locally Advanced Pancreatic Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Wuhan Union Hospital, China",
+        "organization": "Wuhan Union Hospital, China",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Heshui Wu",
+        "email": "heshuiwu@hust.edu.cn",
+        "phone": "+86 137-2011-7761",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Heshui Wu",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Wuhan Union Hospital, China"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Heshui Wu",
+        "email": "heshuiwu@hust.edu.cn",
+        "phone": "+86 137-2011-7761",
+        "role": "CONTACT",
+        "site": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+        "city": "Wuhan",
+        "state": "Hubei",
+        "country": "China"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Heshui Wu",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+        "city": "Wuhan",
+        "state": "Hubei",
+        "country": "China"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06294548",
+    "title": "A Study of Valemetostat Tosylate (DS-3201b) with Atezolizumab and Bevacizumab in HCC",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "University of Alabama at Birmingham",
+        "organization": "University of Alabama at Birmingham",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Margaret Thomas, MPH",
+        "email": "margaretannthomas@uabmc.edu",
+        "phone": "205-895-1802",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Pamela M Hardwick",
+        "email": "pamdixon@uab.edu",
+        "phone": "205-975-5387",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Mehmet S Akce, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "University of Alabama at Birmingham"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Margaret Thomas, MPH",
+        "email": "margaretannthomas@uabmc.edu",
+        "phone": "No phone",
+        "role": "CONTACT",
+        "site": "University of Alabama at Birmingham",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Mehmet S Akce, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "CONTACT",
+        "site": "University of Alabama at Birmingham",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05820048",
+    "title": "The Efficacy and Safty of Proton Pump Inhibitor (Lansoprazole)",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Daejeon St. Mary's hospital",
+        "organization": "Daejeon St. Mary's hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "DaeWon Kim, MD PhD",
+        "email": "mirinesilver@catholic.ac.kr",
+        "phone": "820422209686",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "HaNa Lee",
+        "email": "No email",
+        "phone": "820422209943",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "DaeWon Kim",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Cardiovascular Center, Mary's Hospital,64, Daeheung-ro, Jung-gu, Daejeon, Republic of Korea"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06630325",
+    "title": "A Precision Medicine Approach (SMMART-ACT) for the Treatment of Patients With Advanced, Recurrent Sarcoma, Prostate, Breast, Ovarian or Pancreatic Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "OHSU Knight Cancer Institute",
+        "organization": "OHSU Knight Cancer Institute",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Lara E Davis",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "OHSU Knight Cancer Institute-Northwest Portland"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Lara E. Davis",
+        "email": "smmart@ohsu.edu",
+        "phone": "No phone",
+        "role": "CONTACT",
+        "site": "OHSU Knight Cancer Institute-Northwest Portland",
+        "city": "Portland",
+        "state": "Oregon",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Lara E. Davis",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "OHSU Knight Cancer Institute-Northwest Portland",
+        "city": "Portland",
+        "state": "Oregon",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05966025",
+    "title": "Potential Benefits of Itopride in the Management of Patients With Metabolic Associated Fatty Liver Disease (MAFLD)",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "October 6 University",
+        "organization": "October 6 University",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Maha y fekry, beclore",
+        "email": "maha.youssif.ph@o6u.edu.eg",
+        "phone": "01111349592",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Engy ah wahsh, Lecturer",
+        "email": "engywahsh@o6u.edu.eg",
+        "phone": "01003095692",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Hoda m rabea, A Professor",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Beni-suaf university"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Yasmine m madney, Lecturer",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Beni-suaf university"
+      },
+      {
+        "type": "Site Contact",
+        "name": "maha y fekry, beclore",
+        "email": "maha.youssif.ph@o6u.edu.eg",
+        "phone": "01111349592",
+        "role": "CONTACT",
+        "site": "Maha Youssif Fekry",
+        "city": "Giza",
+        "state": null,
+        "country": "Egypt"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Engy ah wahsh, lec o6u",
+        "email": "engywahsh@o6u.edu.eg",
+        "phone": "01003095692",
+        "role": "CONTACT",
+        "site": "Maha Youssif Fekry",
+        "city": "Giza",
+        "state": null,
+        "country": "Egypt"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Hoda m Rabea, A professor",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "Maha Youssif Fekry",
+        "city": "Giza",
+        "state": null,
+        "country": "Egypt"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Yasmine m medney, lec",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "site": "Maha Youssif Fekry",
+        "city": "Giza",
+        "state": null,
+        "country": "Egypt"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06254625",
+    "title": "Fecal Transplantation in Patients Colonic Diverticulitis",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Odense University Hospital",
+        "organization": "Odense University Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Camilla Thorndal Nielsen, Medical student",
+        "email": "Camilla.Thorndal.Nielsen@rsyd.dk",
+        "phone": "+45 65415190",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Thomas Bj\u00f8rsum-meyer, M.D., PhD",
+        "email": "thomas.bjoersum-meyer@rsyd.dk",
+        "phone": "+4565415190",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Thomas Bj\u00f8rsum-meyer, M.D., PhD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Odense University Hospital"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06593431",
+    "title": "Extending Outcomes for Pancreas Cancer Patients with Nominal Oligometastatic Disease (EXPAND): a Randomized Phase III Trial",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "M.D. Anderson Cancer Center",
+        "organization": "M.D. Anderson Cancer Center",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Ethan Ludmir, MD",
+        "email": "ebludmir@mdanderson.org",
+        "phone": "(713) 825-3169",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Ethan Ludmir, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "M.D. Anderson Cancer Center"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Ethan Ludmir, MD",
+        "email": "ebludmir@mdanderson.org",
+        "phone": "(713) 825-3169",
+        "role": "CONTACT",
+        "site": "MD Anderson Cancer Center",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Ethan Ludmir, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "CONTACT",
+        "site": "MD Anderson Cancer Center",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06089382",
+    "title": "A Study to Evaluate Sintilimab Plus Lenvatinib as Adjuvant Therapy in Hepatocellular Carcinoma With Portal Vein Tumor Thrombosis (PVTT) After Surgical Resection",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Tongji Hospital",
+        "organization": "Tongji Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Xiaoping Chen, Prodessor",
+        "email": "chenxpchenxp@163.com",
+        "phone": "02783665213",
+        "role": "CONTACT"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06385873",
+    "title": "RC48 Combined With Adebrelimab, Apatinib and S-1 as Neoadjuvant Therapy in Locally Advanced Gastric Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "The First Affiliated Hospital with Nanjing Medical University",
+        "organization": "The First Affiliated Hospital with Nanjing Medical University",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Xiaofeng Chen, Ph.D",
+        "email": "chenxiaofengnjmu@163.com",
+        "phone": "13585172066",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Hao Xu, Ph.D",
+        "email": "66881866@qq.com",
+        "phone": "13851530117",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Xiaofeng Xiaofeng, Ph.D",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "The First Affiliated Hospital with Nanjing Medical University"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Hao Xu, Ph.D",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "The First Affiliated Hospital with Nanjing Medical University"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06124001",
+    "title": "Clinical Study of VG161 Combined With Camrelizumab in Patients With Advanced Primary Hepatocellular Carcinoma",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "CNBG-Virogin Biotech (Shanghai) Ltd.",
+        "organization": "CNBG-Virogin Biotech (Shanghai) Ltd.",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Tingbo Liang, MD.PhD.",
+        "email": "liangtingbo@zju.edu.cn",
+        "phone": "0571-87236666",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Yinan Shen, MD. PhD.",
+        "email": "fysyn@163.com",
+        "phone": "0571-87236666",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Tingbo Tingbo, MD. PhD.",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Zhejiang University"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT06374901",
+    "title": "Tislelizumab Combined With Neoadjuvant Chemotherapy Used in the Perioperative Treatment.",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Xiangdong Cheng",
+        "organization": "Xiangdong Cheng",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Xiangdong Cheng",
+        "email": "chengxd@zjcc.org.cn",
+        "phone": "13968032995",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Can Hu",
+        "email": "hucanchina@163.com",
+        "phone": "15168376735",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Xiangdong Cheng",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_CHAIR",
+        "affiliation": "Zhejiang Cancer Hospital"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT05637567",
+    "title": "Perioperative Platelet Inhibition With Acetylsalicylic Acid in Patients With Resectable Tumors of the Pancreatic Head",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "German Cancer Research Center",
+        "organization": "German Cancer Research Center",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Sebastian Schoelch, MD",
+        "email": "s.schoelch@dkfz.de",
+        "phone": "+49621383",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Johanna Betzler, MD",
+        "email": "johanna.betzler@dkfz.de",
+        "phone": "+49621383",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Sebastian Schoelch, MD",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_CHAIR",
+        "affiliation": "German Cancer Research Center"
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT04384601",
+    "title": "Dragon III-Phase 3: Neoadjuvant Chemotherapy (FLOT Versus SOX) for Gastric Cancer",
+    "contacts": [
+      {
+        "type": "Lead Sponsor",
+        "name": "Ruijin Hospital",
+        "organization": "Ruijin Hospital",
+        "email": "No email",
+        "phone": "No phone"
+      },
+      {
+        "type": "Central Contact",
+        "name": "Birendra K Sah, Ph D",
+        "email": "rjsurgeon@hotmail.com",
+        "phone": "0086-13817516354",
+        "role": "CONTACT"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Birendra K Sah, PH D",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "PRINCIPAL_INVESTIGATOR",
+        "affiliation": "Ruijin Hospital"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Chen Li, PH D",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_DIRECTOR",
+        "affiliation": "Ruijin Hospital"
+      },
+      {
+        "type": "Overall Official",
+        "name": "Zhenggang Zhu, PH D",
+        "email": "No email",
+        "phone": "No phone",
+        "role": "STUDY_CHAIR",
+        "affiliation": "Ruijin Hospital"
+      },
+      {
+        "type": "Site Contact",
+        "name": "Birendra K Sah, Ph D",
+        "email": "rjsurgeon@hotmail.com",
+        "phone": "008613817516354",
+        "role": "CONTACT",
+        "site": "Ruijin Hospital Shanghai Jiaotong University School of Medicine",
+        "city": "Shanghai",
+        "state": "Shanghai",
+        "country": "China"
+      }
+    ]
+  }
+]

@@ -1,0 +1,370 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06523530",
+      "orgStudyIdInfo": {
+        "id": "5221"
+      },
+      "organization": {
+        "fullName": "Aristotle University Of Thessaloniki",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of a GnRH Analog on Hepatic Steatosis",
+      "officialTitle": "Effect of the Pharmacological Cessation of Menstruation With a GnRH Analog on Hepatic Steatosis in Women With Endometriosis",
+      "acronym": "EndomMASLD"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-10",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-10",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-04",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-07-10",
+      "studyFirstSubmitQcDate": "2024-07-21",
+      "studyFirstPostDateStruct": {
+        "date": "2024-07-26",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-07-30",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Stergios A Polyzos",
+        "investigatorTitle": "Associate Professor of Pharmacology",
+        "investigatorAffiliation": "Aristotle University Of Thessaloniki"
+      },
+      "leadSponsor": {
+        "name": "Aristotle University Of Thessaloniki",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "424 General Military Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Nonalcoholic Fatty Liver",
+        "Endometriosis"
+      ],
+      "keywords": [
+        "endometriosis",
+        "goserelin acetate",
+        "hepatic fibrosis",
+        "MASLD",
+        "MASH",
+        "metabolic dysfunction-associated steatotic liver disease",
+        "metabolic dysfunction-associated steatohepatitis",
+        "NAFLD",
+        "NASH",
+        "nonalcoholic fatty liver disease",
+        "nonalcoholic steatohepatitis",
+        "treatment",
+        "menopause"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Multicenter, interventional, open label, non-randomized, parallel group",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 62,
+        "type": "ESTIMATED"
+      }
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Hepatic steatosis",
+          "description": "Ultrasound-Guided Attenuation Parameter (UGAP) measured on an ultrasound machine GE Logiq E10s.\n\nBetween-within group interactions in UGAP\n\nUGAP is a non-invasive index based on the attenuation quantification of the ultrasound beam through the hepatic parenchyma, thus used for hepatic steatosis quantification. Cut-off values of \u2265 0.53 dB/cm/MHz, \u2265 0.60 dB/cm/MHz, and \u2265 0.65 dB/cm/MHz have been proposed for the diagnosis of steatosis grade S1, S2, and S3, respectively",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Hepatic fibrosis",
+          "description": "Liver stiffness (LS) measured with 2D Shear Wave Elastography (2D SWE) on an ultrasound machine GE Logiq E10s.\n\nBetween-within group interactions in LS\n\n2D SWE is a non-invasive tool measuring the hepatic parenchyma stiffness, thus indirectly suggesting fibrosis stage (F). Cut-offs values of \\<8.27 kPa, 8.27-9.39 kPa, 9.40-11.88 kPa and \u226511.88 kPa have been proposed for F0-F1, F2, F3, and F4, respectively.",
+          "timeFrame": "6 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Liver function tests I - ALT and AST",
+          "description": "Between-within group interactions will be performed for each of the following parameters:\n\nAlanine aminotransferase (ALT; IU/l), aspartate aminotransferase (AST; IU/l);\n\nALT to AST ratio will be calculated",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Liver function tests II - \u03b3GT",
+          "description": "Between-within group interactions will be performed for:\n\n\u03b3-glutamyltransferase (GGT; IU/l)",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Insulin resistance",
+          "description": "Between-within group interactions will be performed for Homeostasis Model Assessment - Insulin Resistance (HOMA-IR), which is calculated by the formula: fasting glucose (mg/dl) \u00d7 insulin (mU/l)/405, and is an index of insulin resistance; higher score indicates greater insulin resistance.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Lipid profile",
+          "description": "Between-within group interactions will be performed for each of the following parameters:\n\nTotal cholesterol (TC; mg/dL) Triglycerides (TG; mg/dL) High-density lipoprotein cholesterol (HDL-C; mg/dL) 4. Low-density lipoprotein cholesterol (LDL-C)\n\nLDL-C (mg/dL) is calculated by the formula: TC (mg/dl) - HDL-C (mg/dl) - TG (mg/dl)/5.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index I - Fatty Liver Index (FLI)",
+          "description": "FLI is calculated by the formula \\[(e0.953 \u00d7 Loge (TG, mg/dL) + 0.139\u00d7BMI (kg/m2) + 0.718\u00d7 Loge (GGT, U/L) + 0.053 \u00d7 waist circumference (cm) -15.745) / (1 + e0.953 \u00d7 Loge (TG, mg/dL) + 0.139\u00d7BMI (kg/m2) + 0.718\u00d7Loge (GGT, U/L) + 0.053 \u00d7 waist circumference (cm) -15.745)\\] \u00d7 100.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index II - Hepatic Steatosis Index (HSI)",
+          "description": "HSI is calculated by the formula: 8 \\* ALT (U/L) / AST (U/L) + BMI (kg/m2) + 2 \\[if type 2 diabetes melitus (T2DM)\\] + 2 (if female).\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index III - Triglyceride/Glucose Index (TyG)",
+          "description": "TyG is calculated by the formula: Ln\\[TG (mg/dL) \\* Glu (mg/dL) / 2\\].\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index IV - Tyg-BMI",
+          "description": "Tyg-BMI is calculated by the formula: TyG \\* BMI (kg/m2).\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis indices V - NAFLD test",
+          "description": "NAFLD test is calculated by the formula: -0.695 + 0.031 \\* BMI (kg/m2) + 0.003 \\* TC (mg/dL) + 0.014 \\* ALT (U/L) + 0.025 \\* C-reactive protein (CRP) (mg/dL).\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index VI - Metabolic Score for Insulin Resistance (MetS-IR)",
+          "description": "MetS-IR is calculated by the formula: Ln\\[2 \\* Glu (mg/dL) + TG (mg/dL)\\] \\* BMI (kg/m2) / Ln\\[HDL-C (mg/dL)\\].\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index VII - Lipid Accumulation Product index (LAP)",
+          "description": "LAP is calculated by the formula: \\[WC (cm) - 58\\] \\* \\[TG (mg/dL) / 88.57\\].\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic steatosis index VIII - Liver Fat Score (LFS)",
+          "description": "LFS is calculated by the formula: -2.89 + 1.18 (if metabolic syndrome) + 0.45 \\* 2 (if T2DM) + 0.15 \\* insulin (mU/L) + 0.04 \\* AST (U/L) - 0.94 \\* AST (U/L) / ALT (U/L).\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic fibrosis index I - NAFLD fibrosis score (NFS)",
+          "description": "NFS is calculated by the formula: -1.675 + 0.037 \\* age (years) + 0.094 \\* BMI (kg/m2) + 1.13 (if impaired fasting glucose or T2DM) + 0.99 \\* AST (U/L) / ALT (U/L) - 0.013 \\* platelet count \\[\\*10(9)/L\\] - 0.66 \\* albumin (g/dL).\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic fibrosis index II - Fibrosis-4 index (FIB-4)",
+          "description": "FIB-4 is calculated by the formula: age (years) \\* AST (U/L) / {platelet count \\[\\*10(9)/L\\] \\* \u221aALT (U/L)}.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic fibrosis index III - AST-to-Platelet Ratio Index (APRI)",
+          "description": "APRI is calculated by the formula: AST (U/L) / upper limit of normal \\* 100 / platelet count \\[\\*10(9)/L\\].\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Non-invasive hepatic fibrosis index IV - Metabolic dysfunction-Associated Fibrosis Score (MAF-5)",
+          "description": "MAF-5 is calculated by the formula: -11.3674 + 0.0282 \\* WC (cm) - 0.1761 \\* BMI (kg/m2) + 0.0019 \\* WC (cm) \\* BMI (kg/m2) + 2.0762 (if T2DM) + 2.9207 \\* Ln\\[AST (U/L)\\] - 0.0059 \\* platelet count \\[\\*10(9)/L\\].\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Adiponectin",
+          "description": "Adiponectin is measured in \u03bcg/mL.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Leptin",
+          "description": "Leptin is measured in ng/mL.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Tumor Necrosis Factor-\u03b1 (TNF-\u03b1)",
+          "description": "TNF-a is measured in pg/mL.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Sex hormones I - Estradiol",
+          "description": "Estradiol is measured in pg/mL.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Sex hormones II - Testosterone",
+          "description": "Testosterone is measured in ng/mL.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        },
+        {
+          "measure": "Sex hormones III - Sex Hormone Binding Globulin (SHBG)",
+          "description": "SHBG is measured in nmol/L.\n\nBetween-within group interactions will be performed.",
+          "timeFrame": "6 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* women of reproductive age\n* diagnosis of endometriosis. The disease is suspected by patient's individual history (chronic pelvic pain, dyspareunia or/and dysmenorrhea) and the ultrasonographic imaging (chocolate cysts). The diagnosis is confirmed histologically, after laparoscopic surgical treatment and biopsy sampling, which will be interpreted by an independent blinded pathologist.\n* use of contraceptives, which is the first line treatment, is contraindicated or the patient does not consent to receive contraceptives, due to personal preferences.\n* written informed consent to participate to the study\n\nExclusion Criteria:\n\n* mean ethanol consumption \\>10 g/day\n* history of other chronic liver disease (e.g., viral hepatitis, autoimmune hepatitis, primary sclerosing cholangitis, primary biliary cholangitis and overlap syndromes, drug-induced liver injury, hemochromatosis, Wilson's disease, \u03b11-antitrypsin deficiency)\n* liver cirrhosis\n* any malignancy\n* chronic kidney disease\n* uncontrolled hypothyroidism or hyperthyroidism\n* severe sexual hormone disorders (congenital adrenaline hyperplasia, Down syndrome, Turner syndrome).\n* use of the following medications within a 12-month period before baseline, which are associated with drug-induced liver injury (DILI): interferon, tamoxifen, amiodarone, aloperidin, glucocorticoids, hormone replacement therapy, contraceptives, anabolic steroids, any medication against tuberculosis, epilepsy or viruses, methotrexate, parenteral nutrition\n* use of the following medications within a 12-month period before baseline, which are probably associated with improvement in hepatic steatosis: vitamin E, pioglitazone, insulin, glucagon-like peptide-1 receptor agonists (GLP-1RAs), sodium- glucose co-transporter-2 inhibitors (SGLT-2i), orlistat, ursodeoxycholic acid\n* use of any GnRH agonist or antagonist within a 12-month period before baseline",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Stergios A Polyzos, MD, PhD",
+          "role": "CONTACT",
+          "phone": "2310999316",
+          "phoneExt": "+30",
+          "email": "spolyzos@auth.gr"
+        },
+        {
+          "name": "Dimitrios A Anastasilakis, MD, PhDc",
+          "role": "CONTACT",
+          "phone": "6932238231",
+          "phoneExt": "+30",
+          "email": "dimitanast@auth.gr"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Dimitrios A Anastasilakis, MD, PhDc",
+          "affiliation": "School of Medicine, Aristotle University of Thessaloniki",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Athina I Gkiomisi, MD, PhD",
+          "affiliation": "424 General Military Hospital, Thessaloniki, Greece",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Dimitrios G Goulis, MD, PhD",
+          "affiliation": "School of Medicine, Aristotle University of Thessaloniki",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Angelos Daniilidis, MD, PhD",
+          "affiliation": "School of Medicine, Aristotle University of Thessaloniki",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Athanasios A Anastasilakis, MD, PhD",
+          "affiliation": "424 General Military Hospital, Thessaloniki, Greece",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Chrysi Nalmpantidou, MD",
+          "affiliation": "\"G. Gennimatas\" General Hospital, Thessaloniki, Greece",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Stergios A Polyzos, MD, PhD",
+          "affiliation": "School of Medicine, Aristotle University of Thessaloniki",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "424 General Military Hospital",
+          "city": "Thessaloniki",
+          "country": "Greece",
+          "contacts": [
+            {
+              "name": "Athanasios D Anastasilakis, MD, PhD",
+              "role": "CONTACT",
+              "phone": "2310839900",
+              "phoneExt": "+30",
+              "email": "a.anastasilakis@gmail.com"
+            },
+            {
+              "name": "Dimitrios A Anastasilakis, MD, PhDc",
+              "role": "CONTACT",
+              "phone": "6932238231",
+              "phoneExt": "+30",
+              "email": "dimitanast@auth.gr"
+            },
+            {
+              "name": "Athanasios D Anastasilakis, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Dimitrios A Anastasilakis, MD, PhDc",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Athina I G\u03baiomisi, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.64361,
+            "lon": 22.93086
+          }
+        },
+        {
+          "facility": "1st Department of Obstetrics and Gynecology, School of Medicine, Aristotle University of Thessaloniki",
+          "city": "Thessalon\u00edki",
+          "zip": "56403",
+          "country": "Greece",
+          "contacts": [
+            {
+              "name": "Dimitrios G Goulis, MD, PhD",
+              "role": "CONTACT",
+              "phone": "2310233468",
+              "phoneExt": "+30",
+              "email": "dgg@auth.gr"
+            },
+            {
+              "name": "Angelos Daniilidis, MD, PhD",
+              "role": "CONTACT",
+              "phone": "2310992843",
+              "phoneExt": "+30",
+              "email": "angedan@auth.gr"
+            },
+            {
+              "name": "Dimitrios G Goulis, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Angelos Daniilidis, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.64361,
+            "lon": 22.93086
+          }
+        }
+      ]
+    }
+  }
+}
